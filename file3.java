@@ -4,7 +4,7 @@ public class file3{
 	system.out.println.("hello world");
 	  	 //print statement for welcome to devops
 	system.out.println.("welcome to devops");
-		 //print statement for this is my project
-	system.out.prinyln.("this is my project");
+		 //print statement for this is my project and merge issue
+	system.out.println.("this is my project and merge issue");
 	 }
 }
